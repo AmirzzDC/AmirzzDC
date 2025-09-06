@@ -42,8 +42,8 @@ Here are some of my favorite projects (click to view):
 
 <div align="center">
 
-![AmirzzDC's GitHub Stats](https://github-readme-activity-graph.cyclic.app/api?username=AmirzzDC&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-activity-graph.cyclic.app/api/top-langs/?username=AmirzzDC&layout=compact&theme=radical&hide_border=true)
+![AmirzzDC's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmirzzDC&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmirzzDC&layout=compact&theme=radical&hide_border=true)
   
 </div>
 
