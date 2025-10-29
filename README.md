@@ -2,7 +2,7 @@
 
 ![Profile Banner](https://imgur.com/your-banner-image.png) <!-- Optional: add your own banner image URL -->
 
-**A SELF-TAUGHT STUDENT | Python Discord Bot Developer | Web Developer (PHP, HTML, CSS, JS)**
+**A SELF-TAUGHT STUDENT | Python Discord Bot Developer | Web Developer (Front end)**
 
 ---
 
@@ -30,12 +30,7 @@ Hi! I'm a passionate student, coder, and creator. As a self-taught developer, I 
 
 Here are some of my favorite projects (click to view):
 
-- [AutoInstallerApp](https://github.com/AmirzzDC/AutoInstallerApp)
-- [ZurrLeaksWebSource](https://github.com/AmirzzDC/ZurrLeaksWebSource)
-- [BOT](https://github.com/AmirzzDC/BOT)
-- [pizzayumyumyum](https://github.com/AmirzzDC/pizzayumyumyum)
-- [BACKUP_PTERODACTYLPANEL](https://github.com/AmirzzDC/BACKUP_PTERODACTYLPANEL)
-
+NOTHING RIGHT NOW
 ---
 
 ## 📈 GitHub Stats
@@ -76,10 +71,10 @@ I'm currently focused on improving my skills and learning new technologies every
 ## 🌐 Connect With Me
 
 <!-- Add your social links below! -->
-- Twitter: [YourTwitter](#)
-- LinkedIn: [YourLinkedIn](#)
-- Discord: [YourDiscord](#)
-- Personal Website: [YourWebsite](#)
+- Twitter: [S00n](#)
+- LinkedIn: [So0n](#)
+- Discord: [YourDiscord](batangkalyeofficial_)
+- Personal Website: [AmirzzDC](https://amirzzdc.eclipsx.online)
 
 ---
 
