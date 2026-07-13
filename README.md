@@ -1,6 +1,6 @@
 # Hi there, I'm AmirzzDC 👋
 
-![Profile Banner](https://imgur.com/your-banner-image.png) <!-- Optional: add your own banner image URL -->
+![Profile Banner](https://scontent.fmnl9-3.fna.fbcdn.net/v/t39.30808-6/699442822_2080398515874221_5830577712155752840_n.jpg?stp=dst-jpg_tt6&cstp=mx2048x1152&ctp=s2048x1152&_nc_cat=101&_nc_map=urlgen_bucketless&ccb=1-7&_nc_sid=cc71e4&_nc_eui2=AeEL92XZ1ZUmUaSrBMpQYSrCL3gz1zOvmW8veDPXM6-Zb4eN7jODC3Z8PxBjdrBUdmZFqBZ80QgCr2ufa38p2uSc&_nc_ohc=71ThKWMusPkQ7kNvwH47m0e&_nc_oc=AdooGO4R9TetQhWXtWvAt5dOQ5kGUQBC-gWDyBp79t2y5WMYxe1YuMSB_Yj-0QV2I5k&_nc_zt=23&_nc_ht=scontent.fmnl9-3.fna&_nc_gid=JzvtXwha4WmIQHdTbUjMfw&_nc_ss=7a2a8&oh=00_AQBpvLKGzmWMesOjXXTRslobQOwaJS8ZHKFgZjGug3HP9w&oe=6A5A5EDD) 
 
 **A SELF-TAUGHT STUDENT | Python Discord Bot Developer | Web Developer (Front end)**
 
